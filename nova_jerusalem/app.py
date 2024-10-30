@@ -32,6 +32,9 @@ for linha in pagina_inicial.iter_rows(min_row=2):
 
 # PyAutoGui(automacao de clicks e teclado)
 # Openpyxl (leitura e automacao do excel)
+# pip install mouseinfo
+# python from mouseinfo import mouseInfo
+# mouseInfo() para abrir a ferramenta da posicao do mouse
 
 
 
